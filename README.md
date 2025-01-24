@@ -56,7 +56,7 @@ ss -tunlp = verificacao de rede
 
 :se nu = dentro do VIM mostra o numero de linhas escritas
 
-Se eu passar somente $1, $2 no script, a variavel pode ser usada na hora de rodar o script como um arg
+Se for passado somente $1, $2 no script, a variavel pode ser usada na hora de rodar o script como um arg
 por exemplo: wget $1   ./script.sh http://www.lorem.com
 
 echo $? = verifica se o ultimo comando foi bem sucedido ou nao
